@@ -1,0 +1,213 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+body {
+  font-family: 'Poppins';
+}
+
+
+header > div {
+  padding: 0 25px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid lightgray;
+}
+
+.headOfHead
+{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: flex-start;
+	align-items: flex-start;
+	align-content: space-around;
+}
+
+nav {
+  width: 60px;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+
+}
+
+nav a {
+  text-decoration: none;
+  color: black;
+}
+
+.npm-logo {
+	height: 22px;
+	width: 70px;
+}
+
+.magnifying-glass {
+	height: 22px;
+	width: 70px;
+}
+
+.blackHeart {
+  width: 20px;
+  margin-right: 1rem;
+}
+
+section > header 
+{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: center;
+	align-items: center;
+	align-content: center;
+}
+
+
+div {
+  display: inline-block;
+}
+
+#buildAmazingThings {
+	height: 600px;
+}
+
+#section1 {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	justify-content: center;
+	align-items: center;
+	align-content: center;
+
+  	text-align: center;
+
+  	background-color: rgba(232,217,217,.3);
+}
+
+#section2 {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	justify-content: center;
+	align-items: center;
+	align-content: center;
+
+	text-align: center;
+}
+
+section > div
+{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: center;
+	align-items: center;
+	align-content: center;
+}
+
+.btnBox {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: center;
+	align-items: center;
+	align-content: center;
+
+	
+	width: auto;
+
+	background-color: rgba(232,217,217,.3);
+}
+
+.btnWhite {
+	background-color: #FFFFFF;
+	color: black;
+	border: none;
+
+	height: 50px;
+	width: 200px;
+	margin-top: -15px;
+	margin-left: 50px;
+}
+
+.btnWhite a {
+	color: black;
+	font-size: 18px;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.btnRouge {
+	background-color: #FB3B49;
+	color: white;
+	border: none;
+}
+
+.btnRouge a {
+	color: white;
+	font-size: 18px;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.btnPlans {
+	height: 50px;
+	width: 200px;
+}
+
+.triangle-hexagon {
+	height: 256px;
+	width: 230px;
+}
+
+.zero-configuration {
+	height: 39px;
+	width: 32px;
+	margin-left: -250px;
+}
+.team-management {
+	height: 39px;
+	width: 32px;
+	margin-left: -250px;
+}
+.familiar-features {
+	height: 39px;
+	width: 32px;
+	margin-left: -250px;
+}
+.npm-audit {
+	height: 39px;
+	width: 32px;
+	margin-left: -250px;
+}
+
+.Ligne2 {
+	color: red;
+	font-size: 14px;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.btnCreate a {
+	color: white;
+	font-size: 18px;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.btnCreate {
+	height: 50px;
+	width: 200px;
+	background-color: black;
+}
+
+.btnBlack {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+	align-content: center;
+}
